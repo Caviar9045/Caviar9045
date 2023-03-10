@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Caviar 👋
+
+About Me
+I am a Python and web developer with 2 years of experience. I have experience in front-end development using HTML, CSS, and JavaScript, and I also have knowledge about Python and disnake.py (for Python Discord bots).
 
 <!--
 **Caviar9045/Caviar9045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
