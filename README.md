@@ -1,6 +1,6 @@
 ### Hi there, I'm Caviar 👋
 
-About Me
+### [About Me]:
 I am a Python and web developer with 2 years of experience. I have experience in front-end development using HTML, CSS, and JavaScript, and I also have knowledge about Python and disnake.py (for Python Discord bots).
 
 <!--
