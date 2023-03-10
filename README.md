@@ -1,7 +1,15 @@
-### Hi there, I'm Caviar 👋
+### <div align="center"><h1>Hi there, I'm Adrián 👋</h1></div>  
 
-### [About Me]:
-I am a Python and web developer with 2 years of experience. I have experience in front-end development using HTML, CSS, and JavaScript, and I also have knowledge about Python and disnake.py (for Python Discord bots).
+### [🙋‍♂️ About Me]:
+I am a Python and Web developer with <b>2</b> years of experience. I have experience in front-end development using HTML, CSS, and JavaScript, and I also have knowledge about Python and disnake.py (for Python Discord bots).
+
+- 📕 I’m currently learning: <b>Data Analytics on Python</b>.
+- 💻 I usually code in: <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JS</b> and <b>C++</b>. 
+
+### [📫 Contact Me]:
+
+- 💭 Discord: [WillyMex#2174](https://discordapp.com/users/485235416673419266)
+- 🌐 Website: [https://caviar9045.glitch.me](https://caviar9045.glitch.me)
 
 <!--
 **Caviar9045/Caviar9045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
