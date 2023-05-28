@@ -3,7 +3,7 @@
 ### [🙋‍♂️ About Me]:
 I am a Python and Web developer with <b>2</b> years of experience. I have experience in front-end development using HTML, CSS, and JavaScript, and I also have knowledge about Python and disnake.py.
 
-- 📕 I’m currently learning: <b>Data Analytics on Python</b>.
+- 📕 I’m currently learning: <b>Computer Science, Data Analytics & DevOps</b>.
 - 💻 I usually code in: <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JS</b> and <b>C++</b>.
 - 🤔 I’m looking for help with: <b>Resources</b> and <b>Libraries</b> for Chemical Engineering coding.
 
