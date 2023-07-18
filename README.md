@@ -1,11 +1,11 @@
 ### <div align="center"><h1>Hi there, I'm Adrián 👋</h1></div>  
 
 ### [🙋‍♂️ About Me]:
-I am a Python and Web developer with <b>2</b> years of experience. I have experience in front-end development using HTML, CSS, and JavaScript, and I also have knowledge about Python and disnake.py.
+I am a Front-End Developer with almost <b>2</b> years of experience and a OCI DevOps certified professional. I have experience in front-end development using React-Redux and CSS, and I also enjoy writting in Python.
 
-- 📕 I’m currently learning: <b>Computer Science, Data Analytics & DevOps</b>.
-- 💻 I usually code in: <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JS</b> and <b>C++</b>.
-- 🤔 I’m looking for help with: <b>Resources</b> and <b>Libraries</b> for Chemical Engineering coding.
+- 📕 I’m currently learning: <b>Back-End Development (Java), Data Analytics</b>.
+- 🏆 I'm certificated at: <b> DevOps Professional (OCI) </b>
+- 💻 I usually code in: <b>Python</b>, <b>JS</b>, <b>Java</b>, <b>HTML</b>, <b>CSS</b> and <b>C++</b>.
 
 ### [📫 Contact Me]:
 
