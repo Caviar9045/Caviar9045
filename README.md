@@ -9,7 +9,7 @@ I am a Front-End Developer with almost <b>2</b> years of experience and a OCI De
 
 ### [📫 Contact Me]:
 
-- 💭 Discord: [WillyMex#2174](https://discordapp.com/users/485235416673419266)
+- 💭 Discord: [caviar9045](https://discordapp.com/users/485235416673419266)
 - 🌐 Website: [https://caviar9045.glitch.me](https://caviar9045.glitch.me)
 
 ### [⚡ Fun fact]:
