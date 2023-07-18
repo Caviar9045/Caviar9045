@@ -4,13 +4,20 @@
 I am a Front-End Developer with almost <b>2</b> years of experience and a OCI DevOps certified professional. I have experience in front-end development using React-Redux and CSS, and I also enjoy writting in Python.
 
 - 📕 I’m currently learning: <b>Back-End Development (Java), Data Analytics</b>.
-- 🏆 I'm certificated at: <b> DevOps Professional (OCI) </b>
+- 🏆 I'm certificated at: <b> DevOps Professional (OCI). </b>
 - 💻 I usually code in: <b>Python</b>, <b>JS</b>, <b>Java</b>, <b>HTML</b>, <b>CSS</b> and <b>C++</b>.
 
 ### [📫 Contact Me]:
 
 - 💭 Discord: [WillyMex#2174](https://discordapp.com/users/485235416673419266)
 - 🌐 Website: [https://caviar9045.glitch.me](https://caviar9045.glitch.me)
+
+### [⚡ Fun fact]:
+
+I love the following quote:
+
+<i>"No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable."</i> <br/>
+-Socrates.
 
 <!--
 **Caviar9045/Caviar9045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
