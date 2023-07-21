@@ -16,8 +16,8 @@ I am a Front-End Developer with almost <b>2</b> years of experience and a OCI De
 
 I love the following quote:
 
-<i>"No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable."</i> <br/>
--Socrates.
+<i>"Mens sana in corpore sano."</i> <br/>
+-Decimus Iunius Iuvenalis.
 
 <!--
 **Caviar9045/Caviar9045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
