@@ -1,10 +1,10 @@
 ### <div align="center"><h1>Hi there, I'm Adrián 👋</h1></div>  
 
 ### [🙋‍♂️ About Me]:
-I am a Front-End Developer with almost <b>2</b> years of experience and a OCI DevOps certified professional. I have experience in front-end development using React-Redux and CSS, and I also enjoy writting in Python.
+I am a Front-End Developer with almost <b>2</b> years of experience and a OCI DevOps certified professional. I have experience in front-end development using React-Redux and CSS, back-end development with Java (Spring & JPA) and I also enjoy writting in Python.
 
-- 📕 I’m currently learning: <b>Back-End Development (Java), Data Analytics</b>.
-- 🏆 I'm certificated at: <b> DevOps Professional (OCI). </b>
+- 📕 I’m currently learning: <b>Data Analytics</b>.
+- 🏆 I'm certificated at: <b> DevOps Professional (OCI) & OCI Fundations. </b>
 - 💻 I usually code in: <b>Python</b>, <b>JS</b>, <b>Java</b>, <b>HTML</b>, <b>CSS</b> and <b>C++</b>.
 
 ### [📫 Contact Me]:
